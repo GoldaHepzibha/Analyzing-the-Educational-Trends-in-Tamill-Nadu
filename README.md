@@ -36,4 +36,4 @@ What is the difference in salary in Asian women and men?
 
 Please write a detailed insight on what can be the possible issues on gender gap in STEM Jobs.
 
-please go through the entire instruction document.
+
